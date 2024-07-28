@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url('img/checkeredbg.png');
+    background-size: 100px 100px;
+    background-repeat: repeat;
+    background-position: 0 0;
+}
